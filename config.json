@@ -1,0 +1,8 @@
+{
+    "refresh_seconds": 60,
+    "coin_count": 50,
+    "alert_threshold": 5.0,
+    "candle_seconds": 900,
+    "timeframe_label": "15m",
+    "csv_dir": "./data"
+}
